@@ -1,3 +1,4 @@
+#Files which should be ignored
 *.ko
 *.cmd
 *.o
